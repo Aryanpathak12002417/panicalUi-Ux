@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:wght@500;700;800&display=swap');
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.plus-font{
+    font-family: 'Plus Jakarta Sans'
+}
+.pos-ab{
+    position: absolute;
+    top: 20px;
+}
+
+.smoke{
+    background: linear-gradient(180deg, #F2F5F9 0%, rgba(242, 245, 249, 0) 100%);
+}
